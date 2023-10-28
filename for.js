@@ -67,7 +67,7 @@ for (value of arrayTest){
 // Array (opcional) - O objeto de array ao qual o elemento atual pertence.
 let total = 0;
 
-arrayTest = arrayTest.forEach((value) => {
+arrayTest.forEach((value) => {
     total += value;
 })
 
