@@ -33,6 +33,8 @@ for(let i = 1; i < 10; ) {
     i++;
 }
 
+// Também pode ser utilizado sem nenhum termo 
+
 
 // for... in
 // Utilizado para iterar sobre Objetos, onde a ordem não é importante
